@@ -28,3 +28,4 @@ Replace placeholder values like Gmail credentials and OpenWeatherMap API key wit
 Run the main.py file.
 Choose whether to input commands via voice or text.
 Interact with the assistant by giving commands such as "open YouTube", "tell me a joke", or "what's the weather".
+
